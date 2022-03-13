@@ -4,7 +4,7 @@ I'm Hamza Arif a MERN Stack Developer and Content writer.
 
 ✔ Website: [hamzaarif.me](https://hamzaarif.me/)
 
-[![Twitter Badge](https://img.shields.io/badge/-@SardarHamza-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sardarhamza333)](https://twitter.com/sardarhamza333)  [![Linkedin Badge](https://img.shields.io/badge/-Hamza-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-arif1/) [![Mail Badge](https://img.shields.io/badge/-@sardarhamza-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sardarhamza333/) [![Mail Badge](https://img.shields.io/badge/-HamzaArif-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sardarhamza538@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@SardarHamza-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/__sardarhamza)](https://twitter.com/__sardarhamza)  [![Linkedin Badge](https://img.shields.io/badge/-Hamza-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-arif1/) [![Mail Badge](https://img.shields.io/badge/-@sardarhamza-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/__sardarhamza/) [![Mail Badge](https://img.shields.io/badge/-HamzaArif-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sardarhamza538@gmail.com)
 
 
 
